@@ -48,8 +48,8 @@
             </div>
           </div>
           <h3 class="text-xl font-bold text-gray-900 mt-4">Product Name</h3>
-          <p class="text-gray-500 text-sm mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed
-            ante justo. Integer euismod libero id mauris malesuada tincidunt.</p>
+          <p class="text-gray-500 text-sm mt-2">Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed sed
+            ante justo. Integer euismod libero id. mauris malesuada tincidunt.</p>
           <div class="flex items-center justify-between mt-4">
             <span class="text-gray-900 font-bold text-lg">$29.99</span>
             <button class="bg-[#852372] text-white py-2 px-4 rounded-full font-bold hover:bg-gray-800">Add to Cart</button>
